@@ -55,4 +55,4 @@ echo "$MERGED_BRANCHES" | grep -q "$(echo "$TRUTH_BRANCH" | tr '[:upper:]' '[:lo
   exit 1
 }
 
-echo "🎉 Level Passed — Both branches merged and files present!"
+echo "🎉 Level 3 Passed"
